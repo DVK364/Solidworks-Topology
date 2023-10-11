@@ -1,0 +1,20 @@
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\bin\Debug\net6.0-windows\Vectra SOW.exe
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\bin\Debug\net6.0-windows\Vectra SOW.deps.json
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\bin\Debug\net6.0-windows\Vectra SOW.runtimeconfig.json
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\bin\Debug\net6.0-windows\Vectra SOW.dll
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\bin\Debug\net6.0-windows\Vectra SOW.pdb
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\bin\Debug\net6.0-windows\Solidworks Core.dll
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\obj\Debug\net6.0-windows\Vectra SOW.csproj.AssemblyReference.cache
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\obj\Debug\net6.0-windows\Vectra_SOW.Form1.resources
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\obj\Debug\net6.0-windows\Vectra_SOW.Properties.Resources.resources
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\obj\Debug\net6.0-windows\Vectra SOW.csproj.GenerateResource.cache
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\obj\Debug\net6.0-windows\Vectra SOW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\obj\Debug\net6.0-windows\Vectra SOW.AssemblyInfoInputs.cache
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\obj\Debug\net6.0-windows\Vectra SOW.AssemblyInfo.cs
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\obj\Debug\net6.0-windows\Vectra SOW.csproj.CoreCompileInputs.cache
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\obj\Debug\net6.0-windows\Vectra SOW.csproj.CopyComplete
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\obj\Debug\net6.0-windows\Vectra SOW.dll
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\obj\Debug\net6.0-windows\refint\Vectra SOW.dll
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\obj\Debug\net6.0-windows\Vectra SOW.pdb
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\obj\Debug\net6.0-windows\Vectra SOW.genruntimeconfig.cache
+D:\Personel\Prepration\Codes\Solidworks\C#\Vectra\Vectra SOW\obj\Debug\net6.0-windows\ref\Vectra SOW.dll
